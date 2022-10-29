@@ -6,5 +6,5 @@ save_non_project_files = False
 
 [main]
 version = 0.2.0
-recent_files = ['get_job_data.py', 'job_data_transform.py', 'job_corr.py', 'salClassDistance.py', 'single_corr.py', 'job_plot_place.py', 'test.py', 'job_plot_copy.py', 'job_plot_lang.py', 'job_plot_edu.py', 'get_job_data_copy.py', 'dress_crawler.py', 'untitled2.py']
+recent_files = ['get_job_data.py', 'job_data_transform.py', 'job_corr.py', 'salClassDistance.py', 'job_plot_place.py', 'job_plot_lang.py', 'job_plot_edu.py']
 
